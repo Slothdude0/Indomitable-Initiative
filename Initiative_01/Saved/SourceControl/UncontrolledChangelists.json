@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Blueprints/GM_Gamemode.uasset",
+				"D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Blueprints/BP_FPS_Character.uasset",
+				"D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Map_General.umap",
 				"E:/UNREAL/Projects/Initiative_01/Content/Map_General_HLOD0_Instancing.uasset",
 				"E:/UNREAL/Projects/Initiative_01/Content/__ExternalActors__/Map_General/B/03/O89RJD2478F45P693N7GJM.uasset",
 				"E:/UNREAL/Projects/Initiative_01/Content/__ExternalObjects__/Map_General/1/CK/4NACC23YCWFH6UEKED4WBR.uasset",
