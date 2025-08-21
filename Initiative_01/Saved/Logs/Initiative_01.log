@@ -8139,3 +8139,154 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.08.21-21.04.54:716][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.21-21.04.54:716][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.21-21.04.54:716][457]AssetCheck: /Game/Blueprints/BP_FPS_Character Validating asset
+[2025.08.21-21.05.24:422][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.21-21.05.28:208][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.08.21-21.05.28:229][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.21-21.05.28:275][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.08.21-21.05.28:275][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2025.08.21-21.05.28:275][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2025.08.21-21.05.32:088][405]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2025.08.21-21.05.32:092][405]LogSavePackage: Moving 'D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Saved/BP_FPS_Character0ABE9D4D4040F56A6C3CF9A2B34C2C24.tmp' to 'D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Blueprints/BP_FPS_Character.uasset'
+[2025.08.21-21.05.32:132][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.90 sec (total: 3:00 min)
+[2025.08.21-21.05.32:186][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.21-21.05.32:186][405]LogContentValidation: Enabled validators:
+[2025.08.21-21.05.32:186][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.21-21.05.32:186][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.21-21.05.32:186][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.21-21.05.32:186][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.21-21.05.32:186][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.21-21.05.32:186][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.21-21.05.32:186][405]AssetCheck: /Game/Blueprints/BP_FPS_Character Validating asset
+[2025.08.21-21.07.30:978][ 88]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2025.08.21-21.07.30:988][ 88]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2025.08.21-21.07.31:004][ 89]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2025.08.21-21.07.34:110][276]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> FunctionLibrary
+[2025.08.21-21.07.34:171][276]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2025.08.21-21.07.35:139][305]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FunctionLibrary.FunctionLibrary
+[2025.08.21-21.07.35:375][305]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.08.21-21.08.23:267][646]LogSlate: Window 'FunctionLibrary' being destroyed
+[2025.08.21-21.08.23:282][646]LogSlate: Window 'FunctionLibrary' being destroyed
+[2025.08.21-21.08.23:414][646]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.08.21-21.08.23:414][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-21.08.23:694][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.08.21-21.08.27:463][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.08.21-21.08.28:735][771]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.21-21.08.29:177][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.08.21-21.08.29:242][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.21-21.08.29:283][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.08.21-21.08.59:336][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28633.958984
+[2025.08.21-21.09.00:332][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-21.09.00:332][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28634.628906, Update Interval: 301.386139
+[2025.08.21-21.10.25:710][454]LogDerivedDataCache: C:/Users/demot/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.21-21.11.21:131][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.08.21-21.11.21:136][619]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestLevel' took 0.039
+[2025.08.21-21.11.21:138][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.08.21-21.11.21:138][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2025.08.21-21.11.25:040][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto9
+[2025.08.21-21.11.25:042][619]LogSavePackage: Moving 'D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Saved/BP_FPS_Character_Auto98A5B3E944103C3E95610D4815B6A3153.tmp' to 'D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto9.uasset'
+[2025.08.21-21.11.25:063][619]LogFileHelpers: Auto-saving content packages took 3.927
+[2025.08.21-21.13.32:713][ 48]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.21-21.13.32:793][ 48]LogPlayLevel: [PlayLevel] Compiling BP_FPS_Character before play...
+[2025.08.21-21.13.32:900][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.08.21-21.13.32:907][ 48]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (1 blueprints)
+[2025.08.21-21.13.32:908][ 48]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2025.08.21-21.13.32:910][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002197s)
+[2025.08.21-21.13.32:910][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.002235s)
+[2025.08.21-21.13.32:941][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.21-21.13.32:946][ 48]LogChaosDD: Creating Chaos Debug Draw Scene for world TestLevel
+[2025.08.21-21.13.32:948][ 48]LogPlayLevel: PIE: World Init took: (0.001968s)
+[2025.08.21-21.13.32:949][ 48]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2025.08.21-21.13.32:950][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.21-21.13.32:950][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.21-21.13.32:950][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.21-21.13.32:950][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.21-21.13.32:950][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.21-21.13.32:950][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.21-21.13.32:950][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.21-21.13.32:950][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.21-21.13.32:950][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.21-21.13.32:950][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.21-21.13.32:950][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.21-21.13.32:952][ 48]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.21-21.13.32:970][ 48]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR HS80 RGB Wireless Gaming Headset)
+[2025.08.21-21.13.32:970][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.21-21.13.32:970][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.21-21.13.32:970][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.21-21.13.32:970][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2025.08.21-21.13.32:970][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=77
+[2025.08.21-21.13.32:973][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2025.08.21-21.13.32:973][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2025.08.21-21.13.32:973][ 48]LogInit: FAudioDevice initialized with ID 77.
+[2025.08.21-21.13.32:973][ 48]LogAudio: Display: Audio Device (ID: 77) registered with world 'TestLevel'.
+[2025.08.21-21.13.32:973][ 48]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2025.08.21-21.13.32:980][ 48]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.08.21-21.13.32:981][ 48]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2025.08.21-22.13.32
+[2025.08.21-21.13.32:981][ 48]LogWorld: Bringing up level for play took: 0.000873
+[2025.08.21-21.13.32:983][ 48]LogOnline: OSS: Created online subsystem instance for: :Context_102
+[2025.08.21-21.13.32:986][ 48]PIE: Server logged in
+[2025.08.21-21.13.32:990][ 48]PIE: Play in editor total start time 0.199 seconds.
+[2025.08.21-21.13.49:266][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-21.13.49:266][ 19]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2025.08.21-21.13.49:267][ 19]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.21-21.13.49:267][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-21.13.49:268][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.21-21.13.49:273][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-21.13.49:305][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-21.13.49:305][ 19]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2025.08.21-21.13.49:305][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77, StreamState=4
+[2025.08.21-21.13.49:308][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77, StreamState=2
+[2025.08.21-21.13.49:315][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.21-21.13.49:446][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2025.08.21-21.13.53:069][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.08.21-21.13.53:076][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.21-21.13.53:129][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2025.08.21-21.13.53:129][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2025.08.21-21.13.53:129][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2025.08.21-21.13.56:819][152]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2025.08.21-21.13.56:821][152]LogSavePackage: Moving 'D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Saved/BP_FPS_Character5852BF0C406EBE0CC8ED76B075A9A1C9.tmp' to 'D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Blueprints/BP_FPS_Character.uasset'
+[2025.08.21-21.13.56:896][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.81 sec (total: 3:04 min)
+[2025.08.21-21.13.56:953][152]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.21-21.13.56:953][152]LogContentValidation: Enabled validators:
+[2025.08.21-21.13.56:953][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.21-21.13.56:953][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.21-21.13.56:953][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.21-21.13.56:953][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.21-21.13.56:953][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.21-21.13.56:953][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.21-21.13.56:953][152]AssetCheck: /Game/Blueprints/BP_FPS_Character Validating asset
+[2025.08.21-21.14.38:109][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28972.953125
+[2025.08.21-21.14.38:243][590]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-21.14.38:243][590]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28973.074219, Update Interval: 330.548431
+[2025.08.21-21.20.42:460][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29338.345703
+[2025.08.21-21.20.42:593][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-21.20.42:593][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29338.464844, Update Interval: 305.198517
+[2025.08.21-21.26.43:345][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29700.185547
+[2025.08.21-21.26.43:479][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-21.26.43:479][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29700.302734, Update Interval: 332.461914
+[2025.08.21-21.33.08:982][228]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30086.599609
+[2025.08.21-21.33.09:149][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-21.33.09:149][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30086.746094, Update Interval: 319.290741
+[2025.08.21-21.39.08:873][820]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30447.302734
+[2025.08.21-21.39.09:023][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-21.39.09:023][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30447.437500, Update Interval: 358.546082
+[2025.08.21-21.45.50:109][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30849.142578
+[2025.08.21-21.45.50:258][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-21.45.50:259][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30849.277344, Update Interval: 313.376251
+[2025.08.21-21.51.50:111][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31209.712891
+[2025.08.21-21.51.50:245][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-21.51.50:246][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31209.830078, Update Interval: 354.116638
+[2025.08.21-21.58.17:849][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31598.597656
+[2025.08.21-21.58.17:999][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-21.58.17:999][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31598.730469, Update Interval: 306.280701
+[2025.08.21-22.03.54:966][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31936.240234
+[2025.08.21-22.03.55:116][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-22.03.55:116][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31936.375000, Update Interval: 347.561279
+[2025.08.21-22.10.24:588][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32326.363281
+[2025.08.21-22.10.24:721][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-22.10.24:721][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32326.480469, Update Interval: 304.193237
+[2025.08.21-22.10.25:711][419]LogDerivedDataCache: C:/Users/demot/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.21-22.16.17:625][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32680.978516
+[2025.08.21-22.16.17:791][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-22.16.17:792][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32681.130859, Update Interval: 310.754120
+[2025.08.21-22.18.03:790][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.08.21-22.18.09:036][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
