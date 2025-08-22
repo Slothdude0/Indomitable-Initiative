@@ -2937,3 +2937,6 @@ Sampler Limit: 32
 [2025.08.22-17.38.00:561][395]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2025.08.22-17.38.00:561][395]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2025.08.22-17.38.02:366][395]LogEditorDataStorage: Deinitializing
+[2025.08.22-17.38.07:694][395]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.08.22-17.38.11:509][395]LogExit: Editor shut down
+[2025.08.22-17.38.11:541][395]LogExit: Transaction tracking system shut down
