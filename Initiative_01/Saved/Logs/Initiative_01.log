@@ -2940,3 +2940,11 @@ Sampler Limit: 32
 [2025.08.22-17.38.07:694][395]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2025.08.22-17.38.11:509][395]LogExit: Editor shut down
 [2025.08.22-17.38.11:541][395]LogExit: Transaction tracking system shut down
+[2025.08.22-17.38.24:136][395]LogExit: Object subsystem successfully closed.
+[2025.08.22-17.38.24:325][395]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.08.22-17.38.31:440][395]LogMemoryProfiler: Shutdown
+[2025.08.22-17.38.31:462][395]LogNetworkingProfiler: Shutdown
+[2025.08.22-17.38.31:462][395]LoadingProfiler: Shutdown
+[2025.08.22-17.38.31:463][395]LogTimingProfiler: Shutdown
+[2025.08.22-17.38.31:636][395]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.08.22-17.38.31:650][395]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
