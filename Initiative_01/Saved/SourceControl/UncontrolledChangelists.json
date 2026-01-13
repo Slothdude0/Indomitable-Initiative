@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Unreal II/Indomitable-Initiative/Initiative_01/Content/Levels/TestLevel.umap",
+				"F:/Unreal II/Indomitable-Initiative/Initiative_01/Content/Blueprints/BP_FPS_Character.uasset",
 				"D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Blueprints/GM_Gamemode.uasset",
 				"D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Blueprints/BP_FPS_Character.uasset",
 				"D:/Games/Indomitable Initiative/Indomitable-Initiative/Initiative_01/Content/Map_General.umap",
