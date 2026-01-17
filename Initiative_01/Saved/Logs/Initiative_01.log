@@ -6325,3 +6325,14 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.17-13.54.57:489][484]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2026.01.17-13.54.57:489][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2026.01.17-13.54.58:644][484]LogEditorDataStorage: Deinitializing
+[2026.01.17-13.55.02:685][484]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.17-13.55.03:814][484]LogExit: Editor shut down
+[2026.01.17-13.55.03:816][484]LogExit: Transaction tracking system shut down
+[2026.01.17-13.55.13:312][484]LogExit: Object subsystem successfully closed.
+[2026.01.17-13.55.13:383][484]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.17-13.55.16:246][484]LogMemoryProfiler: Shutdown
+[2026.01.17-13.55.16:261][484]LogNetworkingProfiler: Shutdown
+[2026.01.17-13.55.16:261][484]LoadingProfiler: Shutdown
+[2026.01.17-13.55.16:283][484]LogTimingProfiler: Shutdown
+[2026.01.17-13.55.16:486][484]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.17-13.55.16:498][484]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
