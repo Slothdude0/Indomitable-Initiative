@@ -9923,3 +9923,781 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.26-15.53.50:363][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.26-15.53.50:363][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2899.344238, Update Interval: 302.283386
 [2026.01.26-15.56.32:547][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.01.26-15.57.48:306][359]LogEditorTransaction: Undo Move Node
+[2026.01.26-15.57.48:697][361]LogEditorTransaction: Undo Add Node
+[2026.01.26-15.57.49:115][364]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.26-15.59.09:973][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.01.26-15.59.10:999][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-15.59.11:081][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2026.01.26-15.59.11:082][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2026.01.26-15.59.11:082][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2026.01.26-15.59.11:142][541]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2026.01.26-15.59.11:144][541]LogSavePackage: Moving '../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Saved/BP_FPS_Character6600DA364692E982CF3BACAE3BB134C1.tmp' to '../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Content/Blueprints/BP_FPS_Character.uasset'
+[2026.01.26-15.59.11:169][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.511 ms (total: 5.90 sec)
+[2026.01.26-15.59.11:221][541]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-15.59.11:221][541]LogContentValidation: Enabled validators:
+[2026.01.26-15.59.11:221][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-15.59.11:221][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-15.59.11:221][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-15.59.11:221][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-15.59.11:221][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-15.59.11:221][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-15.59.11:221][541]AssetCheck: /Game/Blueprints/BP_FPS_Character Validating asset
+[2026.01.26-15.59.12:271][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.26-15.59.36:426][ 43]LogSlate: Window 'Open Level' being destroyed
+[2026.01.26-15.59.38:358][100]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-15.59.39:629][100]LogSlate: Window 'New Level' being destroyed
+[2026.01.26-15.59.39:650][100]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.26-15.59.39:819][100]LogWorld: UWorld::CleanupWorld for SlopeTest, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-15.59.39:819][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-15.59.39:852][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.26-15.59.39:857][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.01.26-15.59.39:870][100]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2026.01.26-15.59.39:870][100]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_2
+[2026.01.26-15.59.39:872][100]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.01.26-15.59.39:872][100]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.26-15.59.39:872][100]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Untitled_2.Untitled_2, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.26-15.59.40:150][100]LogWorldPartition: Display: WorldPartition initialize took 278.432 ms (total: 543.810 ms)
+[2026.01.26-15.59.40:365][100]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.26-15.59.40:399][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.01.26-15.59.40:402][100]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.26-15.59.40:404][100]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.59ms to complete.
+[2026.01.26-15.59.41:448][102]LogSlate: External Image Picker: DecompressImage failed
+[2026.01.26-15.59.41:665][102]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3250.971680
+[2026.01.26-15.59.42:162][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-15.59.42:162][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3251.362793, Update Interval: 344.675446
+[2026.01.26-15.59.46:682][242]LogSlate: Window 'New Level' being destroyed
+[2026.01.26-15.59.46:704][242]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.26-15.59.46:851][242]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-15.59.46:851][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-15.59.46:851][242]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_2.Untitled_2
+[2026.01.26-15.59.46:892][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.26-15.59.46:911][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.01.26-15.59.46:918][242]LogStreaming: Display: FlushAsyncLoading(819): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-15.59.46:920][242]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2026.01.26-15.59.46:920][242]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_3
+[2026.01.26-15.59.46:992][242]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.26-15.59.47:027][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.26-15.59.47:030][242]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.26-15.59.47:030][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2026.01.26-15.59.47:560][244]LogSlate: External Image Picker: DecompressImage failed
+[2026.01.26-16.00.00:348][589]LogStreaming: Display: FlushAsyncLoading(820): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-16.00.00:395][589]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/demot/Downloads/modular kit test.fbx]
+[2026.01.26-16.00.02:688][589]LogSlate: Window 'Import Content' being destroyed
+[2026.01.26-16.00.02:736][589]LogInterchangeEngine: [Pending] Importing
+[2026.01.26-16.00.03:176][591]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-16.00.03:447][594]LogStaticMesh: Display: Building static mesh modular_kit_test (Required Memory Estimate: 3.645451 MB)...
+[2026.01.26-16.00.03:590][600]LogStaticMesh: Adjacency [0.00s], tris: 2304, UVs 1
+[2026.01.26-16.00.03:598][600]LogStaticMesh: Clustering [0.01s]. Ratio: 1.277778
+[2026.01.26-16.00.03:612][601]LogStaticMesh: Leaves [0.01s]
+[2026.01.26-16.00.03:740][604]LogStaticMesh: Reduce [0.13s]
+[2026.01.26-16.00.03:828][607]LogStaticMesh: Fallback [0.09s], num tris: 748
+[2026.01.26-16.00.03:830][607]LogStaticMesh: ConstrainClusters:
+[2026.01.26-16.00.03:830][607]LogStaticMesh:   Input: 43 Clusters, 4821 Triangles and 6901 Vertices
+[2026.01.26-16.00.03:830][607]LogStaticMesh:   Output without splits: 43 Clusters, 4821 Triangles and 6901 Vertices
+[2026.01.26-16.00.03:830][607]LogStaticMesh:   Output with splits: 44 Clusters, 4821 Triangles and 6903 Vertices
+[2026.01.26-16.00.03:830][607]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 44, Slow Path Clusters: 0, 1 Material: 44, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.26-16.00.03:834][607]LogStaticMesh: WritePages:
+[2026.01.26-16.00.03:834][607]LogStaticMesh:   Root: GPU size: 32428 bytes. 1 Pages. 32428.000 bytes per page (98.962% utilization).
+[2026.01.26-16.00.03:834][607]LogStaticMesh:   Streaming: GPU size: 64852 bytes. 1 Pages (1 with relative encoding). 64852.000 bytes per page (49.478% utilization).
+[2026.01.26-16.00.03:834][607]LogStaticMesh:   Page data disk size: 81564 bytes. Fixup data size: 152 bytes.
+[2026.01.26-16.00.03:834][607]LogStaticMesh:   Total GPU size: 97280 bytes, Total disk size: 81716 bytes.
+[2026.01.26-16.00.03:834][607]LogStaticMesh: Encode [0.01s]
+[2026.01.26-16.00.03:834][607]LogStaticMesh: NaniteBuild [0.29s]
+[2026.01.26-16.00.03:838][607]LogStaticMesh: Built static mesh [0.39s] /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.05:285][608]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.1Mb total, 0.1Mb always loaded, 28% occupied, 0 triangles, modular_kit_test
+[2026.01.26-16.00.05:428][609]LogInterchangeEngine: Display: Interchange import completed [C:/Users/demot/Downloads/modular kit test.fbx]
+[2026.01.26-16.00.05:464][609]Interchange: Warning: [C:/Users/demot/Downloads/modular kit test.fbx : 'modular_kit_test', StaticMesh] No smoothing group information was found for this mesh 'Cube' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.26-16.00.05:573][609]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.26-16.00.05:573][609]LogInterchangeEngine: [Success] Import Done
+[2026.01.26-16.00.06:108][611]LogPSOHitching: Encountered 150 PSO creation hitches so far (77 graphics, 73 compute). 0 of them were precached.
+[2026.01.26-16.00.07:651][612]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.1Mb total, 0.1Mb always loaded, 28% occupied, 0 triangles, modular_kit_test
+[2026.01.26-16.00.07:716][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.07:742][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.07:742][612]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_1
+[2026.01.26-16.00.07:863][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.01.26-16.00.07:874][612]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2026.01.26-16.00.07:890][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.07:890][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.07:892][612]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_2
+[2026.01.26-16.00.08:163][613]LogPSOHitching: Encountered 200 PSO creation hitches so far (85 graphics, 115 compute). 0 of them were precached.
+[2026.01.26-16.00.13:430][747]Cmd: DELETE
+[2026.01.26-16.00.13:430][747]Cmd: ACTOR DELETE
+[2026.01.26-16.00.13:434][747]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.26-16.00.13:464][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.26-16.00.13:468][747]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.01.26-16.00.14:822][786]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.15:019][786]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.26-16.00.15:109][786]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-16.00.41:315][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-16.00.41:435][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestMeshes/modular_kit_test] ([1] browsable assets)...
+[2026.01.26-16.00.41:492][332]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test]
+[2026.01.26-16.00.41:492][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestMeshes/modular_kit_test]
+[2026.01.26-16.00.41:492][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMeshes/modular_kit_test" FILE="../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Content/TestMeshes/modular_kit_test.uasset" SILENT=true
+[2026.01.26-16.00.41:674][332]LogSavePackage: Moving output files for package: /Game/TestMeshes/modular_kit_test
+[2026.01.26-16.00.41:674][332]LogSavePackage: Moving '../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Saved/modular_kit_test65777E7F45880BAA05D36298980907C4.tmp' to '../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Content/TestMeshes/modular_kit_test.uasset'
+[2026.01.26-16.00.41:698][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 383.106 ms (total: 6.29 sec)
+[2026.01.26-16.00.41:739][332]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-16.00.41:740][332]LogContentValidation: Enabled validators:
+[2026.01.26-16.00.41:740][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-16.00.41:740][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-16.00.41:740][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-16.00.41:740][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-16.00.41:740][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-16.00.41:740][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-16.00.41:740][332]AssetCheck: /Game/TestMeshes/modular_kit_test Validating asset
+[2026.01.26-16.00.41:873][332]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.26-16.00.42:493][350]LogSlate: Window 'modular_kit_test' being destroyed
+[2026.01.26-16.00.42:545][350]LogSlate: Window 'modular_kit_test' being destroyed
+[2026.01.26-16.00.42:711][350]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-16.00.42:711][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.00.42:817][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.01.26-16.00.43:593][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.43:593][380]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.43:594][380]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_3
+[2026.01.26-16.00.44:568][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.01.26-16.00.44:571][436]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2026.01.26-16.00.44:578][436]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.44:578][436]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.44:579][436]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_4
+[2026.01.26-16.00.46:088][517]Cmd: DELETE
+[2026.01.26-16.00.46:088][517]Cmd: ACTOR DELETE
+[2026.01.26-16.00.46:090][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.26-16.00.46:123][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.26-16.00.46:125][517]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.01.26-16.00.46:709][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.46:709][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.46:711][542]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_5
+[2026.01.26-16.00.46:836][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.01.26-16.00.46:839][547]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2026.01.26-16.00.46:846][547]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.46:846][547]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test
+[2026.01.26-16.00.46:847][547]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestMeshes/modular_kit_test.modular_kit_test as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_6
+[2026.01.26-16.01.01:211][297]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.26-16.01.02:298][352]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-16.01.02:326][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-16.01.02:326][352]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2026.01.26-16.01.02:328][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002156s)
+[2026.01.26-16.01.02:328][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.002193s)
+[2026.01.26-16.01.02:364][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.01.26-16.01.02:368][352]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_3
+[2026.01.26-16.01.02:370][352]LogPlayLevel: PIE: World Init took: (0.002972s)
+[2026.01.26-16.01.02:372][352]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.01.26-16.01.02:372][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-16.01.02:372][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-16.01.02:372][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-16.01.02:372][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-16.01.02:372][352]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-16.01.02:372][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-16.01.02:372][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-16.01.02:372][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-16.01.02:372][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-16.01.02:372][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-16.01.02:373][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-16.01.02:376][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-16.01.02:403][352]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR HS80 RGB Wireless Gaming Headset)
+[2026.01.26-16.01.02:403][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-16.01.02:403][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-16.01.02:403][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-16.01.02:403][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.01.26-16.01.02:403][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=26
+[2026.01.26-16.01.02:408][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.01.26-16.01.02:408][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.01.26-16.01.02:408][352]LogInit: FAudioDevice initialized with ID 26.
+[2026.01.26-16.01.02:408][352]LogAudio: Display: Audio Device (ID: 26) registered with world 'Untitled_3'.
+[2026.01.26-16.01.02:408][352]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.01.26-16.01.02:413][352]LogLoad: Game class is 'GM_Gamemode_C'
+[2026.01.26-16.01.02:414][352]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 60) at 2026.01.26-16.01.02
+[2026.01.26-16.01.02:414][352]LogWorld: Bringing up level for play took: 0.001040
+[2026.01.26-16.01.02:418][352]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.01.26-16.01.02:433][352]PIE: Server logged in
+[2026.01.26-16.01.02:435][352]PIE: Play in editor total start time 0.11 seconds.
+[2026.01.26-16.01.05:564][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-16.01.05:564][535]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_3
+[2026.01.26-16.01.05:564][535]LogWorld: UWorld::CleanupWorld for Untitled_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-16.01.05:565][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.01.05:565][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-16.01.05:570][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.01.05:607][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.26-16.01.05:607][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.01.26-16.01.05:607][535]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.01.26-16.01.05:611][535]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.01.26-16.01.05:616][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-16.01.05:619][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.01.26-16.01.05:708][536]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.01.26-16.01.10:729][827]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.26-16.01.12:732][943]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.26-16.01.16:900][187]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.26-16.01.18:199][249]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-16.01.18:218][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-16.01.18:218][249]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2026.01.26-16.01.18:220][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002893s)
+[2026.01.26-16.01.18:220][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.002933s)
+[2026.01.26-16.01.18:264][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.01.26-16.01.18:268][249]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_3
+[2026.01.26-16.01.18:271][249]LogPlayLevel: PIE: World Init took: (0.003025s)
+[2026.01.26-16.01.18:272][249]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.01.26-16.01.18:272][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-16.01.18:272][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-16.01.18:272][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-16.01.18:272][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-16.01.18:272][249]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-16.01.18:272][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-16.01.18:272][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-16.01.18:272][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-16.01.18:272][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-16.01.18:272][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-16.01.18:272][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-16.01.18:276][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-16.01.18:305][249]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR HS80 RGB Wireless Gaming Headset)
+[2026.01.26-16.01.18:305][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-16.01.18:306][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-16.01.18:306][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-16.01.18:307][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.01.26-16.01.18:307][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=27
+[2026.01.26-16.01.18:312][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.01.26-16.01.18:312][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.01.26-16.01.18:312][249]LogInit: FAudioDevice initialized with ID 27.
+[2026.01.26-16.01.18:312][249]LogAudio: Display: Audio Device (ID: 27) registered with world 'Untitled_3'.
+[2026.01.26-16.01.18:312][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.01.26-16.01.18:317][249]LogLoad: Game class is 'GM_Gamemode_C'
+[2026.01.26-16.01.18:318][249]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 60) at 2026.01.26-16.01.18
+[2026.01.26-16.01.18:318][249]LogWorld: Bringing up level for play took: 0.001032
+[2026.01.26-16.01.18:321][249]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.01.26-16.01.18:325][249]PIE: Server logged in
+[2026.01.26-16.01.18:328][249]PIE: Play in editor total start time 0.111 seconds.
+[2026.01.26-16.01.20:586][384]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:602][385]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:619][386]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:635][387]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:653][388]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:678][389]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:695][390]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:712][391]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:728][392]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:745][393]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:762][394]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:778][395]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:794][396]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:811][397]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:828][398]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:844][399]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:862][400]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:878][401]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:895][402]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:911][403]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:928][404]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:945][405]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:962][406]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:978][407]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.20:994][408]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.21:011][409]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.21:027][410]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.21:045][411]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.21:061][412]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.21:079][413]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.21:095][414]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.21:112][415]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.21:128][416]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.22:387][489]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:403][490]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:420][491]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:437][492]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:454][493]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:470][494]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:486][495]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:502][496]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:520][497]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:537][498]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:554][499]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:570][500]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:587][501]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:604][502]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:620][503]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:637][504]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:653][505]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:671][506]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.22:687][507]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.23:853][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-16.01.23:853][575]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_3
+[2026.01.26-16.01.23:853][575]LogWorld: UWorld::CleanupWorld for Untitled_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-16.01.23:854][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.01.23:855][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-16.01.23:860][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.01.23:897][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-16.01.23:897][575]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.01.26-16.01.23:898][575]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.01.26-16.01.23:902][575]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.01.26-16.01.23:912][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.01.26-16.01.24:001][576]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.01.26-16.01.25:357][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-16.01.25:380][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-16.01.25:380][651]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2026.01.26-16.01.25:383][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002540s)
+[2026.01.26-16.01.25:383][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.002574s)
+[2026.01.26-16.01.25:427][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.01.26-16.01.25:430][651]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_3
+[2026.01.26-16.01.25:433][651]LogPlayLevel: PIE: World Init took: (0.003140s)
+[2026.01.26-16.01.25:436][651]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.01.26-16.01.25:436][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-16.01.25:436][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-16.01.25:436][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-16.01.25:436][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-16.01.25:436][651]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-16.01.25:436][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-16.01.25:436][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-16.01.25:436][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-16.01.25:436][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-16.01.25:436][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-16.01.25:436][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-16.01.25:440][651]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-16.01.25:470][651]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR HS80 RGB Wireless Gaming Headset)
+[2026.01.26-16.01.25:470][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-16.01.25:470][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-16.01.25:470][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-16.01.25:471][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.01.26-16.01.25:471][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=28
+[2026.01.26-16.01.25:475][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.01.26-16.01.25:475][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2026.01.26-16.01.25:475][651]LogInit: FAudioDevice initialized with ID 28.
+[2026.01.26-16.01.25:475][651]LogAudio: Display: Audio Device (ID: 28) registered with world 'Untitled_3'.
+[2026.01.26-16.01.25:475][651]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.01.26-16.01.25:480][651]LogLoad: Game class is 'GM_Gamemode_C'
+[2026.01.26-16.01.25:482][651]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 60) at 2026.01.26-16.01.25
+[2026.01.26-16.01.25:482][651]LogWorld: Bringing up level for play took: 0.000945
+[2026.01.26-16.01.25:485][651]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.01.26-16.01.25:488][651]PIE: Server logged in
+[2026.01.26-16.01.25:491][651]PIE: Play in editor total start time 0.111 seconds.
+[2026.01.26-16.01.26:663][721]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:680][722]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:698][723]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:715][724]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:730][725]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:748][726]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:764][727]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:781][728]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:798][729]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:814][730]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:830][731]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:848][732]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:864][733]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:880][734]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:897][735]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:915][736]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:931][737]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:948][738]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:964][739]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.26:981][740]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.27:414][766]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:430][767]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:447][768]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:465][769]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:481][770]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:498][771]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:514][772]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:530][773]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:548][774]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:564][775]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:581][776]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:597][777]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:614][778]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.27:630][779]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:247][816]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:264][817]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:281][818]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:297][819]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:313][820]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:330][821]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:347][822]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:364][823]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:381][824]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:397][825]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:414][826]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:430][827]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:447][828]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:463][829]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:480][830]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:497][831]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:514][832]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:530][833]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:547][834]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:565][835]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:580][836]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.28:598][837]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.29:915][916]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.29:931][917]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.29:948][918]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.29:964][919]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.29:981][920]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.29:997][921]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.30:014][922]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.30:031][923]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.30:048][924]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.30:064][925]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.30:081][926]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.30:247][936]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:265][937]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:280][938]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:297][939]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:315][940]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:331][941]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:347][942]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:364][943]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:380][944]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:397][945]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.30:414][946]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.31:002][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-16.01.31:002][979]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_3
+[2026.01.26-16.01.31:003][979]LogWorld: UWorld::CleanupWorld for Untitled_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-16.01.31:003][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.01.31:004][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-16.01.31:011][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.01.31:040][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-16.01.31:041][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.01.26-16.01.31:041][979]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2026.01.26-16.01.31:044][979]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2026.01.26-16.01.31:053][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.01.26-16.01.31:145][980]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.01.26-16.01.33:701][125]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.26-16.01.39:168][437]Cmd: DELETE
+[2026.01.26-16.01.39:168][437]Cmd: ACTOR DELETE
+[2026.01.26-16.01.39:170][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.26-16.01.39:215][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.01.26-16.01.39:219][437]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2026.01.26-16.01.44:880][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.26-16.01.44:906][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-16.01.44:907][756]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_3
+[2026.01.26-16.01.44:909][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002449s)
+[2026.01.26-16.01.44:909][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_3.Untitled_3 to /Temp/UEDPIE_0_Untitled_3.Untitled_3 (0.002484s)
+[2026.01.26-16.01.44:954][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.01.26-16.01.44:959][756]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_3
+[2026.01.26-16.01.44:962][756]LogPlayLevel: PIE: World Init took: (0.003239s)
+[2026.01.26-16.01.44:964][756]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.01.26-16.01.44:964][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-16.01.44:964][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-16.01.44:964][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-16.01.44:964][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-16.01.44:964][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-16.01.44:964][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-16.01.44:964][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-16.01.44:964][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-16.01.44:964][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-16.01.44:964][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-16.01.44:964][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-16.01.44:969][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-16.01.44:999][756]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR HS80 RGB Wireless Gaming Headset)
+[2026.01.26-16.01.44:999][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-16.01.44:999][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-16.01.44:999][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-16.01.44:999][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.01.26-16.01.44:999][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=29
+[2026.01.26-16.01.45:003][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.01.26-16.01.45:004][756]LogInit: FAudioDevice initialized with ID 29.
+[2026.01.26-16.01.45:004][756]LogAudio: Display: Audio Device (ID: 29) registered with world 'Untitled_3'.
+[2026.01.26-16.01.45:004][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.01.26-16.01.45:004][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.01.26-16.01.45:009][756]LogLoad: Game class is 'GM_Gamemode_C'
+[2026.01.26-16.01.45:009][756]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_3.Untitled_3 up for play (max tick rate 60) at 2026.01.26-16.01.45
+[2026.01.26-16.01.45:010][756]LogWorld: Bringing up level for play took: 0.000949
+[2026.01.26-16.01.45:014][756]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.01.26-16.01.45:029][756]PIE: Server logged in
+[2026.01.26-16.01.45:031][756]PIE: Play in editor total start time 0.125 seconds.
+[2026.01.26-16.01.46:806][862]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:823][863]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:839][864]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:856][865]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:872][866]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:889][867]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:907][868]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:922][869]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:939][870]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:956][871]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:973][872]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.46:990][873]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:006][874]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:023][875]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:039][876]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:056][877]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:073][878]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:089][879]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:106][880]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:123][881]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:139][882]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:157][883]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:173][884]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:189][885]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:206][886]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:223][887]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:240][888]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:256][889]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:273][890]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:289][891]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:307][892]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:322][893]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:340][894]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:356][895]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:373][896]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:390][897]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:407][898]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:423][899]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:439][900]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:456][901]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:473][902]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:490][903]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:506][904]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:523][905]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:540][906]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:557][907]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:574][908]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:590][909]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:607][910]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:623][911]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:640][912]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:657][913]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:673][914]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:690][915]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.47:740][918]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.47:756][919]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:190][945]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:206][946]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:222][947]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:239][948]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:257][949]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:272][950]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:289][951]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:306][952]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:323][953]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:340][954]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:356][955]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:373][956]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:389][957]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:406][958]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:423][959]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:440][960]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.48:457][961]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.49:640][ 32]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:657][ 33]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:673][ 34]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:690][ 35]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:706][ 36]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:724][ 37]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:740][ 38]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:756][ 39]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:774][ 40]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:790][ 41]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:807][ 42]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:824][ 43]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:839][ 44]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:856][ 45]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:873][ 46]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:889][ 47]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:907][ 48]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:922][ 49]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:940][ 50]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:956][ 51]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:973][ 52]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.49:990][ 53]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:007][ 54]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:024][ 55]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:040][ 56]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:057][ 57]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:074][ 58]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:090][ 59]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:107][ 60]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:124][ 61]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:140][ 62]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:156][ 63]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:174][ 64]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:191][ 65]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:207][ 66]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Slide
+[2026.01.26-16.01.50:523][ 85]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:539][ 86]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:556][ 87]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:574][ 88]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:591][ 89]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:607][ 90]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:624][ 91]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:641][ 92]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:657][ 93]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:674][ 94]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:691][ 95]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:707][ 96]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:723][ 97]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:740][ 98]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:757][ 99]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:773][100]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:790][101]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:807][102]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:823][103]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:840][104]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:856][105]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:873][106]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:890][107]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:907][108]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:923][109]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:940][110]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.50:956][111]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.51:039][116]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:056][117]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:073][118]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:089][119]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:106][120]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:124][121]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:139][122]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:156][123]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:173][124]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:190][125]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:207][126]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:223][127]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:240][128]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:256][129]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:273][130]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:290][131]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:306][132]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:323][133]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:340][134]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:356][135]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:373][136]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:389][137]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:406][138]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:423][139]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:440][140]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.51:984][172]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:001][173]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:018][174]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:034][175]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:051][176]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:068][177]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:085][178]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:101][179]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:119][180]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:135][181]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:151][182]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:168][183]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:184][184]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:201][185]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:218][186]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:234][187]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:251][188]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:268][189]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:284][190]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.52:319][192]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:335][193]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:352][194]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:368][195]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:384][196]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:401][197]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:418][198]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:435][199]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:451][200]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:468][201]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:485][202]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:501][203]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:518][204]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:534][205]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:551][206]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:568][207]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:584][208]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.52:602][209]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.53:252][248]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:268][249]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:285][250]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:302][251]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:319][252]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:335][253]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:351][254]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:368][255]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:385][256]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:401][257]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:419][258]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:434][259]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:451][260]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:468][261]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:484][262]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:502][263]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:518][264]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:535][265]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:552][266]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:568][267]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.53:936][289]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.53:952][290]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.53:969][291]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.53:984][292]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:002][293]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:018][294]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:034][295]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:051][296]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:068][297]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:085][298]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:101][299]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:119][300]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:134][301]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:152][302]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:168][303]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:184][304]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:202][305]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:219][306]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:235][307]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:251][308]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:268][309]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:284][310]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:301][311]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:319][312]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:334][313]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.54:351][314]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Dash
+[2026.01.26-16.01.55:235][367]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:252][368]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:268][369]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:285][370]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:302][371]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:318][372]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:335][373]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:351][374]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:368][375]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:384][376]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:402][377]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:418][378]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:435][379]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.55:452][380]LogBlueprintUserMessages: [BP_FPS_Character_C_0] Jump
+[2026.01.26-16.01.56:082][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-16.01.56:083][416]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_3
+[2026.01.26-16.01.56:083][416]LogWorld: UWorld::CleanupWorld for Untitled_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-16.01.56:083][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.01.56:084][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-16.01.56:091][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.01.56:128][416]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.26-16.01.56:129][416]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.01.26-16.01.56:129][416]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.01.26-16.01.56:131][416]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.01.26-16.01.56:138][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-16.01.56:141][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.01.26-16.01.56:267][417]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.01.26-16.02.18:640][853]LogSlate: Window 'Save Level As' being destroyed
+[2026.01.26-16.02.18:871][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.01.26-16.02.18:942][853]LogSavePackage: Moving output files for package: /Game/Levels/ModularKitTestLevel01
+[2026.01.26-16.02.18:942][853]LogSavePackage: Moving '../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Saved/ModularKitTestLevel012C2C883E4C9451B4EB0320B6F2291F1E.tmp' to '../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Content/Levels/ModularKitTestLevel01.umap'
+[2026.01.26-16.02.19:028][853]LogFileHelpers: Saving map 'ModularKitTestLevel01' took 0.368
+[2026.01.26-16.02.19:028][853]Cmd: MAP LOAD FILE="../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Content/Levels/ModularKitTestLevel01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.26-16.02.19:082][853]LogWorld: UWorld::CleanupWorld for ModularKitTestLevel01, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-16.02.19:082][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-16.02.19:117][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.26-16.02.19:120][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.01.26-16.02.19:123][853]LogStreaming: Display: FlushAsyncLoading(834): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.26-16.02.19:127][853]LogAudio: Display: Audio Device (ID: 1) registered with world 'ModularKitTestLevel01'.
+[2026.01.26-16.02.19:127][853]LogChaosDD: Creating Chaos Debug Draw Scene for world ModularKitTestLevel01
+[2026.01.26-16.02.19:208][853]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.26-16.02.19:244][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.01.26-16.02.19:272][853]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.26-16.02.19:272][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2026.01.26-16.02.19:323][853]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-16.02.19:323][853]LogContentValidation: Enabled validators:
+[2026.01.26-16.02.19:323][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-16.02.19:323][853]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-16.02.19:323][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-16.02.19:323][853]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-16.02.19:323][853]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-16.02.19:323][853]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-16.02.19:323][853]AssetCheck: /Game/Levels/ModularKitTestLevel01 Validating asset
+[2026.01.26-16.02.19:428][853]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal II/Indomitable-Initiative/Initiative_01/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.26-16.02.20:057][855]LogSlate: External Image Picker: DecompressImage failed
+[2026.01.26-16.02.24:245][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
